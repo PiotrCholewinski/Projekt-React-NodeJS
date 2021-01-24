@@ -1,0 +1,11 @@
+:root {
+  --light-lavender: #bb48f5;
+  --dark-violet: #9932cc;
+}
+
+* {
+  font-family: "Comfortaa", cursive;
+  margin: 1;
+  padding: 1;
+  box-sizing: border-box;
+}
